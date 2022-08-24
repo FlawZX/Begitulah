@@ -12,7 +12,7 @@ let krizyn = `
             hydratedTemplate: {
                 hydratedContentText: krizyn,
                 imageMessage: message.imageMessage, 
-           hydratedFooterText: 'subscribe banh!',
+           hydratedFooterText: 'Subscribe Ngab!',
            hydratedButtons: [{
              urlButton: {
                displayText: 'SOURCE CODE 🐈',
