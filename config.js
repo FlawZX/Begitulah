@@ -24,12 +24,12 @@ global.pulsa = '089510598381'
 global.gopay = '089510598381'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Darkbotz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.web = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/Jarotr_'
-global.pulsa = '085850539404'
-global.nomer = 'https://wa.me/6285850539404' //ganti jadi nomor mu
+global.namebot = '𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
+global.gc = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl'
+global.web = 'https://youtube.com/channel/UCAssIRzQX_Ohi1I8eWzcRxQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/karfuanyogich'
+global.pulsa = '089510598381'
+global.nomer = 'https://wa.me/6289510598381' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 25.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
