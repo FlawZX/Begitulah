@@ -316,7 +316,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
       
              "rows": [{
                   "title": ` 🧝OWNER BOT`,
-                  "description": "Nomor Pemilik Bot Chat P/Meminta Save Tidak Akan Di Respon",
+                  "description": "Lagi Need Ayang, Kalau Minat Chat Aja:v Khusus Cwe Ya Anj",
                   "rowId": `.owner`
                 },{
                   "title": '🪄 BUAT LOGO',
@@ -527,14 +527,14 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedButtons: [{
             urlButton: {
                displayText: '🔮YOUTUBE🔮',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               url: 'https://youtube.com/channel/UCAssIRzQX_Ohi1I8eWzcRxQ'
              }
 
            },
              {
              urlButton: {
                displayText: '🎮GROUP BOT🎮', 
-               url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+               url: 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl'
              }
 
            },
